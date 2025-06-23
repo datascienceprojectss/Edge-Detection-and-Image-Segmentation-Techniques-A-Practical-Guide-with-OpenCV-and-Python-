@@ -62,16 +62,7 @@ For face detection, the Haar Cascade Classifier offers fast, real-time performan
 Installation & Usage
 
 1. Prerequisites:
-   
-Python 3.8+
-
-OpenCV (cv2)
-
-Scikit-learn (sklearn)
-
-NumPy (numpy)
-
-Matplotlib (matplotlib)
+   Python 3.8+, OpenCV (cv2), Scikit-learn (sklearn), NumPy (numpy), Matplotlib (matplotlib)
 
 Future Work
 Deep Learning Integration: Replace traditional methods with CNNs (e.g., U-Net, Mask R-CNN).

@@ -6,6 +6,7 @@ The goal is to compare different techniques, analyze their strengths and weaknes
 Techniques Implemented
 
 1. Edge Detection Methods
+   
 Edge detection highlights boundaries in an image, which is crucial for facial feature extraction. The following methods are implemented:
 
 Canny Edge Detection

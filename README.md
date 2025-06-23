@@ -1,0 +1,2 @@
+# Edge-Detection-and-Image-Segmentation-Techniques-A-Practical-Guide-with-OpenCV-and-Python-
+This repository contains the implementation and analysis of various edge detection and segmentation techniques for facial feature extraction in computer vision. The project explores traditional and modern methods to detect and segment faces in images, providing a comprehensive comparison of their performance and applications.

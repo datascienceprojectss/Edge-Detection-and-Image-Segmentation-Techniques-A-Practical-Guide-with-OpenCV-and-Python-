@@ -65,6 +65,7 @@ Installation & Usage
    Python 3.8+, OpenCV (cv2), Scikit-learn (sklearn), NumPy (numpy), Matplotlib (matplotlib)
 
 Future Work
+
 Deep Learning Integration: Replace traditional methods with CNNs (e.g., U-Net, Mask R-CNN).
 Real-Time Processing: Optimize for video streams using OpenCV DNN.
 Hybrid Approaches: Combine edge detection with deep learning for better segmentation.
